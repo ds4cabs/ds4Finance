@@ -23,6 +23,6 @@ CABS (Computational Analysis for Business and Statistics) Data Science for Finan
 ### Installation
 
 ```bash
-git clone https://github.com/yourusername/cabs-data-science-finance.git
-cd cabs-data-science-finance
+git clone https://github.com/ds4cabs/ds4Finance.git
+cd ds4Finance
 pip install -r requirements.txt
